@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE group SYSTEM "src/com/company/xml_valid.dtd">
+
+<group>
+    <student firstname="John" lastname="Doe" groupnumber="ivt-93">
+        <subject title="Math" mark="2" />
+        <subject title="English" mark="5" />
+        <subject title="Physics" mark="5" />
+        <average>err!</average>
+    </student>
+    <student firstname="John" lastname="John" groupnumber="ivt-93">
+        <subject title="Math" mark="5" />
+        <subject title="English" mark="2" />
+        <subject title="Physics" mark="5" />
+        <average>5</average>
+    </student>
+    <student firstname="John" lastname="Alex" groupnumber="ivt-93">
+        <subject title="Math" mark="3" />
+        <subject title="English" mark="4" />
+        <subject title="Physics" mark="5" />
+        <average> </average>
+    </student>
+    <student firstname="John" lastname="Peter" groupnumber="ivt-93">
+        <subject title="Math" mark="5" />
+        <subject title="English" mark="4" />
+        <subject title="Physics" mark="5" />
+        <average>5</average>
+    </student>
+    <student firstname="John" lastname="Othmane" groupnumber="ivt-93">
+        <subject title="Math" mark="4" />
+        <subject title="English" mark="5" />
+        <subject title="Physics" mark="4" />
+        <average>4</average>
+    </student>
+    <student firstname="John" lastname="Lame" groupnumber="ivt-93">
+        <subject title="Math" mark="3" />
+        <subject title="English" mark="5" />
+        <subject title="Physics" mark="3" />
+        <average>3</average>
+    </student>
+    <student firstname="John" lastname="Doe" groupnumber="ddd-00">
+        <subject title="Math" mark="4" />
+        <subject title="English" mark="4" />
+        <subject title="Physics" mark="4" />
+        <average>4.1</average>
+    </student>
+</group>

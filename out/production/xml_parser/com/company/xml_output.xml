@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="3" title="Math"/>
+                
+        <subject mark="4" title="English"/>
+                
+        <subject mark="4" title="Physics"/>
+                
+        <average>3.6666666666666665</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="3" title="Math"/>
+                
+        <subject mark="4" title="English"/>
+                
+        <subject mark="3" title="Physics"/>
+                
+        <average>3.3333333333333335</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="3" title="Math"/>
+                
+        <subject mark="4" title="English"/>
+                
+        <subject mark="5" title="Physics"/>
+                
+        <average>4.0</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="5" title="Math"/>
+                
+        <subject mark="4" title="English"/>
+                
+        <subject mark="5" title="Physics"/>
+                
+        <average>4.666666666666667</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="3" title="Math"/>
+                
+        <subject mark="5" title="English"/>
+                
+        <subject mark="5" title="Physics"/>
+                
+        <average>4.333333333333333</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="3" title="Math"/>
+                
+        <subject mark="3" title="English"/>
+                
+        <subject mark="3" title="Physics"/>
+                
+        <average>3.0</average>
+            
+    </student>
+        
+    <student firstname="John" groupnumber="ddd-00" lastname="Doe">
+                
+        <subject mark="4" title="Math"/>
+                
+        <subject mark="4" title="English"/>
+                
+        <subject mark="4" title="Physics"/>
+                
+        <average>4.0</average>
+            
+    </student>
+    
+</group>
